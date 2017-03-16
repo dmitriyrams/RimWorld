@@ -13,7 +13,7 @@
   <ShredderTurret.label>Турель "Кромсатель"</ShredderTurret.label>
   <ShredderTurret.description>Позволяет производить смертоносную турель "Кромсатель" ближнего действия. Стреляет зарядами с большим количеством картечи.</ShredderTurret.description>
 
-  <PrecisionTurret.label>Высокоточная турель"Шершень"</PrecisionTurret.label>
+  <PrecisionTurret.label>Высокоточная турель "Шершень"</PrecisionTurret.label>
   <PrecisionTurret.description>Позволяет производить турель "Шершень" - Дальнобойную высокоточную турель, способную убить одним выстрелом. Ведёт полуавтоматический огонь с больших расстояний.</PrecisionTurret.description>
 
   <BlastTurret.label>Турель "Улей"</BlastTurret.label>
