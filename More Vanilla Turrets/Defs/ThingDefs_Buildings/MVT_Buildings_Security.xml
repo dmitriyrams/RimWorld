@@ -322,7 +322,7 @@
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_TurretMilitary</turretGunDef>
-      <turretBurstCooldownTime>7.3</turretBurstCooldownTime>
+      <turretBurstCooldownTime>5.3</turretBurstCooldownTime>
       <turretTopgraphicPath>Things/Building/Security/MilitaryTurretGun</turretTopgraphicPath>
     </building>
     <researchPrerequisites>
