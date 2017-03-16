@@ -3,8 +3,8 @@
 
   <!-- Moat -->
 
-  <Shallowmoat.label>淺水護城河</Shallowmoat.label>
-  <Shallowmoat.description>用於減速敵人的簡易外圍防禦。可以在「可挖掘」的地形上建造，並且可以用「移除地板」命令移除。</Shallowmoat.description>
+  <Shallowmoat.label>Ров с водой</Shallowmoat.label>
+  <Shallowmoat.description>Легкая защита по периметру, чтобы замедлить врага. Может быть выкопан на местности с мягким покрытием и может быть удален с помощью инструмента «Снять пол».</Shallowmoat.description>
 
 
 </LanguageData>
