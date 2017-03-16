@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GunComplex.label>Оружейный комплекс</GunComplex.label>
+  <GunComplex.description>Позволяет изготовить новый, управляемый поселенцами оружейный комплекс с установленным на нем тяжелым пулеметом.</GunComplex.description>
+
+  <RocketComplex.label>Ракетный комплекс</RocketComplex.label>
+  <RocketComplex.description>Позволяет изготовить новый, управляемый поселенцами ракетный комплекс с установленной на нем ракетной установкой.</RocketComplex.description>
+
+  <MilitaryTurret.label>Турель "Кобра"</MilitaryTurret.label>
+  <MilitaryTurret.description>Позволяет производить более совершенную автоматическую турель военного класса. Ведёт огонь по принципу пулемёта — очередями.</MilitaryTurret.description>
+
+  <ShredderTurret.label>Турель "Кромсатель"</ShredderTurret.label>
+  <ShredderTurret.description>Позволяет производить смертоносную турель "Кромсатель" ближнего действия. Стреляет зарядами с большим количеством картечи.</ShredderTurret.description>
+
+  <PrecisionTurret.label>Высокоточная турель"Шершень"</PrecisionTurret.label>
+  <PrecisionTurret.description>Позволяет производить турель "Шершень" - Дальнобойную высокоточную турель, способную убить одним выстрелом. Ведёт полуавтоматический огонь с больших расстояний.</PrecisionTurret.description>
+
+  <BlastTurret.label>Турель "Улей"</BlastTurret.label>
+  <BlastTurret.description>Позволяет производить Турель "Улей" - довольно страшную систему, выпускающую залпом несколько гранат.</BlastTurret.description>
+
+  <VulcanCannon.label>Турель "Вулкан"</VulcanCannon.label>
+  <VulcanCannon.description>Позволяет производить Турель "Вулкан" - Большая, укрепленная турель с установленной на ней высокоскорострельной автопушкой Вулкан.</VulcanCannon.description>
+
+  <DevastatorMortar.label>Миномет "Разрушитель"</DevastatorMortar.label>
+  <DevastatorMortar.description>Позволяет производить Миномет "Разрушитель" - </DevastatorMortar.description>
+
+
+</LanguageData>
