@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GunComplex.label>MVT：複合機槍巢</GunComplex.label>
-  <GunComplex.description>解鎖建造新式的、無AI操控的「複合機槍巢」以保護殖民地。</GunComplex.description>
+  <GunComplex.label>gun complex</GunComplex.label>
+  <GunComplex.description>Allows the production of the new non AI controlled gun complex for your colony defense.</GunComplex.description>
 
   <RocketComplex.label>MVT：複合火箭巢</RocketComplex.label>
   <RocketComplex.description>解鎖建造無AI操控的「複合火箭巢」以保護殖民地。</RocketComplex.description>
